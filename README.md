@@ -6,7 +6,7 @@ Bài tập CSS nâng cao - Môn Phát triển ứng dụng Web
 
 ## Thông tin sinh viên
 
-- Họ tên : Nguyen Chanh Dai
+- Họ tên : Nguyễn Chánh Đại
 - MSSV : 18120113
 - Email : 18120113@student.hcmus.edu.vn
 
